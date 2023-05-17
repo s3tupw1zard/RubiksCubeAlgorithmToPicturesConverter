@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RubiksCubeAlgorithmToPicturesConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RubiksCubeAlgorithmToPicturesConverter_jar</output-path>
+    <root id="archive" name="RubiksCubeAlgorithmToPicturesConverter.jar">
+      <element id="module-output" name="RubiksCubeAlgorithmToPicturesConverter" />
+    </root>
+  </artifact>
+</component>
