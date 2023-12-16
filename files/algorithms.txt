@@ -1,0 +1,8 @@
+B B' bw bw'
+D D' dw dw'
+E E' M M' S S'
+F F' fw fw'
+L L' lw lw'
+R R' rw rw'
+U U' uw uw'
+x x' y y' z z'
